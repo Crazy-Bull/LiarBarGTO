@@ -1,0 +1,4 @@
+iterations = 100; 
+alpha_0 = 0.02;
+decay = 0.01;
+min_freq = 0.001;
